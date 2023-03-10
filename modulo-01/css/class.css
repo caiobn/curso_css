@@ -1,0 +1,18 @@
+* {
+    margin:0; 
+    padding:0;
+}
+
+.texto-principal {
+    color: blue;
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 5px;
+}
+
+.texto-secundario {
+    color: green;
+    background-color: plum;
+    margin: 5px;
+    padding: 5px;
+}
