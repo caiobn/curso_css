@@ -2,6 +2,19 @@
 p{
     color: red;
     text-align: justify;
+    text-transform: uppercase;
+}
+
+#texto2{
+    color: rgb(55, 255, 0);
+    text-align: right;
+    text-transform: lowercase; 
+}
+
+#texto3{
+    color: rgb(81, 0, 255);
+    text-align: left;
+    text-transform: capitalize; 
 }
 
 h1{
